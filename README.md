@@ -1,6 +1,6 @@
 # Hi, I'm Tanishka Trivedi
 
-I'm a second-year **Electrical Engineering student at IIT Jodhpur**, with a strong interest in **Machine Learning and data-driven problem solving**. I enjoy working on problems that require logical thinking, efficient algorithms, and practical implementation. An ML-enthusiast, I look for opportunities to integrate Machine learning and Deep Learning concepts to solve greater real-world problems.
+I'm a third-year **Electrical Engineering student at IIT Jodhpur**, with a strong interest in **Machine Learning and data-driven problem solving**. I enjoy working on problems that require logical thinking, efficient algorithms, and practical implementation. An ML-enthusiast, I look for opportunities to integrate Machine learning and Deep Learning concepts to solve greater real-world problems.
 
 While my current experience includes systems-level and embedded projects, I am actively building my foundation in **Machine Learning and pattern recognition**, and exploring how intelligent models can be applied to real-world problems. Would also love to see how hardware-integrated with AI can be of greater use!
 
